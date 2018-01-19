@@ -1,0 +1,15 @@
+/Users/BenGalluzzo/Documents/Projects/Samples/TodoApi/Todo.Web/bin/Debug/netcoreapp2.0/Todo.Web.deps.json
+/Users/BenGalluzzo/Documents/Projects/Samples/TodoApi/Todo.Web/bin/Debug/netcoreapp2.0/Todo.Web.runtimeconfig.json
+/Users/BenGalluzzo/Documents/Projects/Samples/TodoApi/Todo.Web/bin/Debug/netcoreapp2.0/Todo.Web.runtimeconfig.dev.json
+/Users/BenGalluzzo/Documents/Projects/Samples/TodoApi/Todo.Web/bin/Debug/netcoreapp2.0/Todo.Web.dll
+/Users/BenGalluzzo/Documents/Projects/Samples/TodoApi/Todo.Web/bin/Debug/netcoreapp2.0/Todo.Web.pdb
+/Users/BenGalluzzo/Documents/Projects/Samples/TodoApi/Todo.Web/obj/Debug/netcoreapp2.0/Todo.Web.csproj.CoreCompileInputs.cache
+/Users/BenGalluzzo/Documents/Projects/Samples/TodoApi/Todo.Web/obj/Debug/netcoreapp2.0/Todo.Web.AssemblyInfoInputs.cache
+/Users/BenGalluzzo/Documents/Projects/Samples/TodoApi/Todo.Web/obj/Debug/netcoreapp2.0/Todo.Web.AssemblyInfo.cs
+/Users/BenGalluzzo/Documents/Projects/Samples/TodoApi/Todo.Web/obj/Debug/netcoreapp2.0/Todo.Web.dll
+/Users/BenGalluzzo/Documents/Projects/Samples/TodoApi/Todo.Web/obj/Debug/netcoreapp2.0/Todo.Web.pdb
+/Users/BenGalluzzo/Documents/Projects/Samples/TodoApi/Todo.Web/obj/Debug/netcoreapp2.0/Todo.Web.csprojResolveAssemblyReference.cache
+/Users/BenGalluzzo/Documents/Projects/Samples/TodoApi/Todo.Web/bin/Debug/netcoreapp2.0/Todo.Framework.dll
+/Users/BenGalluzzo/Documents/Projects/Samples/TodoApi/Todo.Web/bin/Debug/netcoreapp2.0/Todo.Framework.Model.dll
+/Users/BenGalluzzo/Documents/Projects/Samples/TodoApi/Todo.Web/bin/Debug/netcoreapp2.0/Todo.Framework.pdb
+/Users/BenGalluzzo/Documents/Projects/Samples/TodoApi/Todo.Web/bin/Debug/netcoreapp2.0/Todo.Framework.Model.pdb
